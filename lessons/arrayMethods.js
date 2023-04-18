@@ -33,7 +33,7 @@ console.log(citrus);
 // .splice() it will add or remove tot he array element
 
 fruits.splice(1, 2);
-fruits.splice(2, 0, "Strawberry", "Grape");
+// fruits.splice(2, 0, "Strawberry", "Grape");
 console.log(fruits)
 
 // .reverse() reverses the order of the array
